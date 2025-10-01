@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "learning_rate": 0.11709370312205497,
     "depth": 3,
@@ -17,3 +18,24 @@
         9
     ]
 }
+=======
+{
+    "learning_rate": 0.11709370312205497,
+    "depth": 3,
+    "l2_leaf_reg": 1.3114603652297783,
+    "bagging_temperature": 0.4816358938205631,
+    "leaf_estimation_iterations": 4,
+    "iterations": 2000,
+    "early_stopping_rounds": 50,
+    "od_pval": 0.001,
+    "task_type": "CPU",
+    "thread_count": 4,
+    "cat_features": [
+        5,
+        6,
+        7,
+        8,
+        9
+    ]
+}
+>>>>>>> 0026a5637c5fd031c4b0963aa64089fffff7f188
