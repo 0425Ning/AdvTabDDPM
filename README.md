@@ -28,22 +28,22 @@ The main script accepts various arguments to configure training, and evaluation.
 
 #### AdvTabDDPM Training
 ```bash
-python BoundaryTabDDPM.py --config exp/colosseum/ddpm_tune_best/config.toml --train --ds_path data/colosseum/pickle_to_csv --ds_file colosseum_dataset_globalnorm.pkl --norm_param_file colosseum_global_cols_maxmin.pkl --isNorm --log_base_dir ./classifier_train_result/ --exp_name slice_model_train_result --transformer v1 --slicelen 1 --mode test
+python AdvTabDDPM.py --config exp/colosseum/ddpm_tune_best/config.toml --train --ds_path data/colosseum/pickle_to_csv --ds_file colosseum_dataset_globalnorm.pkl --norm_param_file colosseum_global_cols_maxmin.pkl --isNorm --log_base_dir ./classifier_train_result/ --exp_name slice_model_train_result --transformer v1 --slicelen 1 --mode test
 ```
 
 #### AdvTabDDPM Evaluation
 ```bash
-python BoundaryTabDDPM.py --config exp/colosseum/ddpm_tune_best/config.toml --eval --ds_path data/colosseum/pickle_to_csv --ds_file colosseum_dataset_globalnorm.pkl --norm_param_file colosseum_global_cols_maxmin.pkl --isNorm --log_base_dir ./classifier_train_result/ --exp_name slice_model_train_result --transformer v1 --slicelen 1 --mode test
+python AdvTabDDPM.py --config exp/colosseum/ddpm_tune_best/config.toml --eval --ds_path data/colosseum/pickle_to_csv --ds_file colosseum_dataset_globalnorm.pkl --norm_param_file colosseum_global_cols_maxmin.pkl --isNorm --log_base_dir ./classifier_train_result/ --exp_name slice_model_train_result --transformer v1 --slicelen 1 --mode test
 ```
 
 #### Classifier Training
 ```bash
-python BoundaryTabDDPM.py --config exp/colosseum/ddpm_tune_best/config.toml --ds_path data/colosseum/pickle_to_csv --ds_file colosseum_dataset_globalnorm.pkl --norm_param_file colosseum_global_cols_maxmin.pkl --isNorm --log_base_dir ./classifier_train_result/ --exp_name slice_model_train_result --transformer v1 --slicelen 1
+python AdvTabDDPM.py --config exp/colosseum/ddpm_tune_best/config.toml --ds_path data/colosseum/pickle_to_csv --ds_file colosseum_dataset_globalnorm.pkl --norm_param_file colosseum_global_cols_maxmin.pkl --isNorm --log_base_dir ./classifier_train_result/ --exp_name slice_model_train_result --transformer v1 --slicelen 1
 ```
 
 #### Classifier Training
 ```bash
-python BoundaryTabDDPM.py --config exp/colosseum/ddpm_tune_best/config.toml --ds_path data/colosseum/pickle_to_csv --ds_file colosseum_dataset_globalnorm.pkl --norm_param_file colosseum_global_cols_maxmin.pkl --isNorm --log_base_dir ./classifier_train_result/ --exp_name slice_model_train_result --transformer v1 --slicelen 1 --mode test
+python AdvTabDDPM.py --config exp/colosseum/ddpm_tune_best/config.toml --ds_path data/colosseum/pickle_to_csv --ds_file colosseum_dataset_globalnorm.pkl --norm_param_file colosseum_global_cols_maxmin.pkl --isNorm --log_base_dir ./classifier_train_result/ --exp_name slice_model_train_result --transformer v1 --slicelen 1 --mode test
 ```
 
 ## Command Line Arguments
