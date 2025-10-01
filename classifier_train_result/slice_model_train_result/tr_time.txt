@@ -1,0 +1,340 @@
+Model trans_v1 with slice 1:
+Mean: 1.0586227930509127, std: 0.16929085249812853, num. epochs: 65
+Model trans_v1 with slice 1:
+Mean: 1.1321888315504876, std: 0.1561325121664496, num. epochs: 69
+Model trans_v1 with slice 1:
+Mean: 1.1021574139595032, std: 0.1604980977644897, num. epochs: 76
+Model trans_v1 with slice 1:
+Mean: 1.1387152129953557, std: 0.1726422248436734, num. epochs: 66
+Model trans_v1 with slice 1:
+Mean: 1.7769508975924868, std: 0.7971271328368381, num. epochs: 66
+Model trans_v1 with slice 1:
+Mean: 0.980349063873291, std: 0.26955790141514674, num. epochs: 34
+Model trans_v1 with slice 1:
+Mean: 1.022525198319379, std: 0.22224792838997512, num. epochs: 34
+Model trans_v1 with slice 1:
+Mean: 1.0440975698557766, std: 0.20789514795440014, num. epochs: 44
+Model trans_v1 with slice 1:
+Mean: 1.0155794244063527, std: 0.08420171586760856, num. epochs: 38
+Model trans_v1 with slice 1:
+Mean: 0.9594233246410594, std: 0.05470893242928959, num. epochs: 34
+Model trans_v1 with slice 1:
+Mean: 1.047757774591446, std: 0.057994215638788635, num. epochs: 40
+Model trans_v1 with slice 1:
+Mean: 0.9981740910073985, std: 0.07886079070298016, num. epochs: 115
+Model trans_v1 with slice 1:
+Mean: 0.0992606156308886, std: 0.03409108927191036, num. epochs: 71
+Model trans_v1 with slice 1:
+Mean: 0.10526690116295448, std: 0.027324522063111405, num. epochs: 65
+Model trans_v1 with slice 1:
+Mean: 0.10564116464144942, std: 0.03066034608485022, num. epochs: 69
+Model trans_v1 with slice 1:
+Mean: 0.10483981842218443, std: 0.04121783899685074, num. epochs: 43
+Model trans_v1 with slice 1:
+Mean: 0.10542383709469356, std: 0.04207832800474291, num. epochs: 37
+Model trans_v1 with slice 1:
+Mean: 0.10657307578296196, std: 0.03549524652198093, num. epochs: 41
+Model trans_v1 with slice 1:
+Mean: 0.09527279780461238, std: 0.028469712003261847, num. epochs: 52
+Model trans_v1 with slice 1:
+Mean: 0.10543119616624785, std: 0.027963186013627333, num. epochs: 41
+Model trans_v1 with slice 1:
+Mean: 0.10403293057491905, std: 0.03271401160437359, num. epochs: 38
+Model trans_v1 with slice 1:
+Mean: 0.10508625100298626, std: 0.0436628678814457, num. epochs: 41
+Model trans_v1 with slice 1:
+Mean: 0.10249125957489014, std: 0.03408103931041657, num. epochs: 52
+Model trans_v1 with slice 1:
+Mean: 0.09865759313106537, std: 0.03813830736899292, num. epochs: 48
+Model trans_v1 with slice 1:
+Mean: 0.10424359109666613, std: 0.03249855757239761, num. epochs: 45
+Model trans_v1 with slice 1:
+Mean: 0.09554226893299031, std: 0.028304422410280007, num. epochs: 53
+Model trans_v1 with slice 1:
+Mean: 0.10672832790173982, std: 0.03356742561523677, num. epochs: 38
+Model trans_v1 with slice 1:
+Mean: 0.10896972566843033, std: 0.02907143802108489, num. epochs: 64
+Model trans_v1 with slice 1:
+Mean: 0.10153995003811149, std: 0.026753936842964492, num. epochs: 43
+Model trans_v1 with slice 1:
+Mean: 0.06472840420035429, std: 0.03462084428360647, num. epochs: 43
+Model trans_v1 with slice 1:
+Mean: 0.05736813942591349, std: 0.029681078050145904, num. epochs: 60
+Model trans_v1 with slice 1:
+Mean: 0.06065428641534621, std: 0.029800862402278548, num. epochs: 62
+Model trans_v1 with slice 1:
+Mean: 0.062362051010131835, std: 0.03315015441313906, num. epochs: 55
+Model trans_v1 with slice 1:
+Mean: 0.06255237460136413, std: 0.037047200189317606, num. epochs: 40
+Model trans_v1 with slice 1:
+Mean: 0.060279647509256996, std: 0.033965459396264115, num. epochs: 54
+Model trans_v1 with slice 1:
+Mean: 0.06323645944180696, std: 0.03587885834124714, num. epochs: 46
+Model trans_v1 with slice 1:
+Mean: 0.05784780564515487, std: 0.02798129259853904, num. epochs: 46
+Model trans_v1 with slice 1:
+Mean: 0.0666870208496743, std: 0.03494209377568077, num. epochs: 47
+Model trans_v1 with slice 1:
+Mean: 0.061728090536398966, std: 0.030853643410794145, num. epochs: 61
+Model trans_v1 with slice 1:
+Mean: 0.059009015560150146, std: 0.032103726045409786, num. epochs: 52
+Model trans_v1 with slice 1:
+Mean: 0.062932836157935, std: 0.034681864546479375, num. epochs: 56
+Model trans_v1 with slice 1:
+Mean: 0.059461419781049095, std: 0.032361624297021156, num. epochs: 48
+Model trans_v1 with slice 1:
+Mean: 0.06319114140101842, std: 0.03503525576180861, num. epochs: 42
+Model trans_v1 with slice 1:
+Mean: 0.04450678825378418, std: 0.038764415219697604, num. epochs: 39
+Model trans_v1 with slice 1:
+Mean: 0.04158759117126465, std: 0.027092644565943503, num. epochs: 53
+Model trans_v1 with slice 1:
+Mean: 0.041749258430636656, std: 0.027831553409470265, num. epochs: 49
+Model trans_v1 with slice 1:
+Mean: 0.046236021574153456, std: 0.033856411809062535, num. epochs: 43
+Model trans_v1 with slice 1:
+Mean: 0.041193595954350064, std: 0.026996084065402572, num. epochs: 56
+Model trans_v1 with slice 1:
+Mean: 0.04302339200620298, std: 0.03143666928577577, num. epochs: 54
+Model trans_v1 with slice 1:
+Mean: 0.041699750555886164, std: 0.028048626437758493, num. epochs: 72
+Model trans_v1 with slice 1:
+Mean: 0.042945143423582376, std: 0.028241609659687535, num. epochs: 76
+Model trans_v1 with slice 1:
+Mean: 0.04390383979021493, std: 0.03019669040574603, num. epochs: 59
+Model trans_v1 with slice 1:
+Mean: 0.046462070941925046, std: 0.03370557418435717, num. epochs: 40
+Model trans_v1 with slice 1:
+Mean: 0.04071343128497784, std: 0.027499210784162845, num. epochs: 65
+Model trans_v1 with slice 1:
+Mean: 0.04362587825111721, std: 0.03157511898777344, num. epochs: 46
+Model trans_v1 with slice 1:
+Mean: 0.04268062379625109, std: 0.03154699462533355, num. epochs: 45
+Model trans_v1 with slice 1:
+Mean: 0.04511507034301758, std: 0.0318508664238184, num. epochs: 50
+Model trans_v1 with slice 1:
+Mean: 0.03885615115263024, std: 0.04383916979535562, num. epochs: 49
+Model trans_v1 with slice 1:
+Mean: 0.03634143644763577, std: 0.026337764406597755, num. epochs: 62
+Model trans_v1 with slice 1:
+Mean: 0.03349513645413556, std: 0.023895033501271118, num. epochs: 79
+Model trans_v1 with slice 1:
+Mean: 0.0388762847236965, std: 0.035554062399702706, num. epochs: 46
+Model trans_v1 with slice 1:
+Mean: 0.03483825463515062, std: 0.025273021335649827, num. epochs: 78
+Model trans_v1 with slice 1:
+Mean: 0.03349191142666724, std: 0.023686634017178562, num. epochs: 62
+Model trans_v1 with slice 1:
+Mean: 0.03651961326599121, std: 0.0316523872958353, num. epochs: 50
+Model trans_v1 with slice 1:
+Mean: 0.040676416494907476, std: 0.03266115845470637, num. epochs: 39
+Model trans_v1 with slice 1:
+Mean: 0.03874941774316736, std: 0.03968633222357191, num. epochs: 37
+Model trans_v1 with slice 1:
+Mean: 0.034762331417628696, std: 0.026690529753772504, num. epochs: 42
+Model trans_v1 with slice 1:
+Mean: 0.034769984542346394, std: 0.026288857319806833, num. epochs: 61
+Model trans_v1 with slice 1:
+Mean: 0.03668951988220215, std: 0.03167289723461947, num. epochs: 41
+Model trans_v1 with slice 1:
+Mean: 0.03742270634092133, std: 0.02868830609978803, num. epochs: 58
+Model trans_v1 with slice 1:
+Mean: 0.037468225397962206, std: 0.033081929660748986, num. epochs: 47
+Model trans_v1 with slice 1:
+Mean: 0.02863087325260557, std: 0.025885642558726628, num. epochs: 58
+Model trans_v1 with slice 1:
+Mean: 0.032296037673950194, std: 0.03372479590912203, num. epochs: 50
+Model trans_v1 with slice 1:
+Mean: 0.02858036926814488, std: 0.027065783204482035, num. epochs: 70
+Model trans_v1 with slice 1:
+Mean: 0.02950168046794954, std: 0.029183920217624417, num. epochs: 61
+Model trans_v1 with slice 1:
+Mean: 0.027575523038453693, std: 0.021469743466698648, num. epochs: 79
+Model trans_v1 with slice 1:
+Mean: 0.027783326986359387, std: 0.02405840562882611, num. epochs: 82
+Model trans_v1 with slice 1:
+Mean: 0.03231769678544025, std: 0.03186641990425598, num. epochs: 49
+Model trans_v1 with slice 1:
+Mean: 0.02910642833500118, std: 0.02141712387556264, num. epochs: 91
+Model trans_v1 with slice 1:
+Mean: 0.029585860810189876, std: 0.02830735579099844, num. epochs: 53
+Model trans_v1 with slice 1:
+Mean: 0.029373911119276477, std: 0.028201621063967272, num. epochs: 62
+Model trans_v1 with slice 1:
+Mean: 0.02878077030181885, std: 0.024989391083131998, num. epochs: 70
+Model trans_v1 with slice 1:
+Mean: 0.029775161009568434, std: 0.023895368960310973, num. epochs: 65
+Model trans_v1 with slice 1:
+Mean: 0.028473365001189403, std: 0.024156355836016382, num. epochs: 78
+Model trans_v1 with slice 1:
+Mean: 0.028528828774729082, std: 0.02595003015654952, num. epochs: 62
+Model trans_v1 with slice 1:
+Mean: 0.027509740682748647, std: 0.026772652555838196, num. epochs: 65
+Model trans_v1 with slice 1:
+Mean: 0.1015778750908084, std: 0.03320983733426743, num. epochs: 41
+Model trans_v1 with slice 1:
+Mean: 0.09774329692502565, std: 0.02638675584392161, num. epochs: 79
+Model trans_v1 with slice 1:
+Mean: 0.10221332311630249, std: 0.03402160911029516, num. epochs: 52
+Model trans_v1 with slice 1:
+Mean: 0.09926770828865669, std: 0.031924082627681205, num. epochs: 37
+Model trans_v1 with slice 1:
+Mean: 0.09688159823417664, std: 0.02911387113886285, num. epochs: 40
+Model trans_v1 with slice 1:
+Mean: 0.09661651285071123, std: 0.032349332853121665, num. epochs: 38
+Model trans_v1 with slice 1:
+Mean: 0.10303378105163574, std: 0.03442861757845165, num. epochs: 40
+Model trans_v1 with slice 1:
+Mean: 0.10141134262084961, std: 0.035965988240747405, num. epochs: 37
+Model trans_v1 with slice 1:
+Mean: 0.1016434907913208, std: 0.037831647290989076, num. epochs: 40
+Model trans_v1 with slice 1:
+Mean: 0.10877187435443585, std: 0.036141595936677644, num. epochs: 52
+Model trans_v1 with slice 1:
+Mean: 0.10783584713935852, std: 0.030962661025422934, num. epochs: 40
+Model trans_v1 with slice 1:
+Mean: 0.10030254503575767, std: 0.04121802948313488, num. epochs: 41
+Model trans_v1 with slice 1:
+Mean: 0.09888323615579044, std: 0.029580954830750156, num. epochs: 51
+Model trans_v1 with slice 1:
+Mean: 0.1033406138420105, std: 0.03897113550704831, num. epochs: 40
+Model trans_v1 with slice 1:
+Mean: 0.10361798216656941, std: 0.03560669517349521, num. epochs: 41
+Model trans_v1 with slice 1:
+Mean: 0.02857080101966858, std: 0.025943536506606735, num. epochs: 64
+Model trans_v1 with slice 1:
+Mean: 0.028745828672896986, std: 0.02396479767041452, num. epochs: 86
+Model trans_v1 with slice 1:
+Mean: 0.02772959576377386, std: 0.024773000988831635, num. epochs: 79
+Model trans_v1 with slice 1:
+Mean: 0.029466729566275357, std: 0.027988438303095657, num. epochs: 83
+Model trans_v1 with slice 1:
+Mean: 0.027698874473571777, std: 0.02533915500983959, num. epochs: 80
+Model trans_v1 with slice 1:
+Mean: 0.030095370610555013, std: 0.024381027255208382, num. epochs: 75
+Model trans_v1 with slice 1:
+Mean: 0.030245139048649713, std: 0.027065534442140042, num. epochs: 65
+Model trans_v1 with slice 1:
+Mean: 0.06472502198330192, std: 0.0341565596084085, num. epochs: 43
+Model trans_v1 with slice 1:
+Mean: 0.05910123021979081, std: 0.02630433319636901, num. epochs: 57
+Model trans_v1 with slice 1:
+Mean: 0.06049832077913506, std: 0.03144795075177522, num. epochs: 43
+Model trans_v1 with slice 1:
+Mean: 0.06130738611574526, std: 0.029464678036771257, num. epochs: 54
+Model trans_v1 with slice 1:
+Mean: 0.06055872294367576, std: 0.02790732733693737, num. epochs: 49
+Model trans_v1 with slice 1:
+Mean: 0.05936584018525623, std: 0.03208545574310122, num. epochs: 42
+Model trans_v1 with slice 1:
+Mean: 0.05880950727770405, std: 0.025809285438009043, num. epochs: 62
+Model trans_v1 with slice 1:
+Mean: 0.06116861563462477, std: 0.03570344467753519, num. epochs: 39
+Model trans_v1 with slice 1:
+Mean: 0.06180313958062066, std: 0.038765488640457986, num. epochs: 45
+Model trans_v1 with slice 1:
+Mean: 0.06311793760819868, std: 0.036331070874743514, num. epochs: 44
+Model trans_v1 with slice 1:
+Mean: 0.05837613603343134, std: 0.028495599448203953, num. epochs: 46
+Model trans_v1 with slice 1:
+Mean: 0.06287274522296453, std: 0.027993818204035886, num. epochs: 59
+Model trans_v1 with slice 1:
+Mean: 0.05962421254413884, std: 0.03147434439964848, num. epochs: 41
+Model trans_v1 with slice 1:
+Mean: 0.060025593129599965, std: 0.03416511187735877, num. epochs: 41
+Model trans_v1 with slice 1:
+Mean: 0.05826385815938314, std: 0.03237019333104732, num. epochs: 42
+Model trans_v1 with slice 1:
+Mean: 0.05001840951307764, std: 0.07364598806109893, num. epochs: 53
+Model trans_v1 with slice 1:
+Mean: 0.04149584770202637, std: 0.03303359141486312, num. epochs: 50
+Model trans_v1 with slice 1:
+Mean: 0.04102648099263509, std: 0.0251791395540463, num. epochs: 60
+Model trans_v1 with slice 1:
+Mean: 0.04203688502311707, std: 0.030295908985946755, num. epochs: 40
+Model trans_v1 with slice 1:
+Mean: 0.043110143054615364, std: 0.03256247424061266, num. epochs: 44
+Model trans_v1 with slice 1:
+Mean: 0.04238933437275437, std: 0.029347447053877585, num. epochs: 53
+Model trans_v1 with slice 1:
+Mean: 0.043112225002712674, std: 0.027987683944429305, num. epochs: 63
+Model trans_v1 with slice 1:
+Mean: 0.043568753060840425, std: 0.033068488037734066, num. epochs: 42
+Model trans_v1 with slice 1:
+Mean: 0.04303501333509173, std: 0.03071989644153839, num. epochs: 42
+Model trans_v1 with slice 1:
+Mean: 0.044724919966288974, std: 0.027909320595150434, num. epochs: 56
+Model trans_v1 with slice 1:
+Mean: 0.044758619264114737, std: 0.03128048448857429, num. epochs: 43
+Model trans_v1 with slice 1:
+Mean: 0.04298155396072953, std: 0.027979184335945238, num. epochs: 54
+Model trans_v1 with slice 1:
+Mean: 0.044022431740394004, std: 0.039427999104264914, num. epochs: 39
+Model trans_v1 with slice 1:
+Mean: 0.04567346043056912, std: 0.036172359938291085, num. epochs: 45
+Model trans_v1 with slice 1:
+Mean: 0.03382270547408092, std: 0.021532867776880883, num. epochs: 79
+Model trans_v1 with slice 1:
+Mean: 0.035226996739705405, std: 0.027294218959769374, num. epochs: 45
+Model trans_v1 with slice 1:
+Mean: 0.03405921368659297, std: 0.02188607690433263, num. epochs: 79
+Model trans_v1 with slice 1:
+Mean: 0.03573113939036494, std: 0.03282792352674499, num. epochs: 46
+Model trans_v1 with slice 1:
+Mean: 0.03529785739050971, std: 0.029889876673835362, num. epochs: 54
+Model trans_v1 with slice 1:
+Mean: 0.03555600092961238, std: 0.02443504506491418, num. epochs: 65
+Model trans_v1 with slice 1:
+Mean: 0.034396271774734276, std: 0.024128500343493568, num. epochs: 69
+Model trans_v1 with slice 1:
+Mean: 0.035171686216842295, std: 0.030674253335836097, num. epochs: 43
+Model trans_v1 with slice 1:
+Mean: 0.037017777987888884, std: 0.0227657723903909, num. epochs: 70
+Model trans_v1 with slice 1:
+Mean: 0.03448309777658197, std: 0.022346530459655217, num. epochs: 79
+Model trans_v1 with slice 1:
+Mean: 0.03842838037581671, std: 0.03457939907208945, num. epochs: 42
+Model trans_v1 with slice 1:
+Mean: 0.034795875732715316, std: 0.031204513207927716, num. epochs: 52
+Model trans_v1 with slice 1:
+Mean: 0.03656607270240784, std: 0.030132089937737933, num. epochs: 40
+Model trans_v1 with slice 1:
+Mean: 0.03630089230007595, std: 0.026873146140483965, num. epochs: 45
+Model trans_v1 with slice 1:
+Mean: 0.10474928749932183, std: 0.03199369324221049, num. epochs: 45
+Model trans_v1 with slice 1:
+Mean: 0.1016519232229753, std: 0.029042432902692816, num. epochs: 44
+Model trans_v1 with slice 1:
+Mean: 0.10381769216977633, std: 0.028931917957377346, num. epochs: 52
+Model trans_v1 with slice 1:
+Mean: 0.1749424934387207, std: 0.036871428247846075, num. epochs: 38
+Model trans_v1 with slice 1:
+Mean: 0.038574247944111725, std: 0.03225153834014627, num. epochs: 49
+Model trans_v1 with slice 1:
+Mean: 0.036202041726363335, std: 0.026341603065330284, num. epochs: 57
+Model trans_v1 with slice 1:
+Mean: 0.03392943865816358, std: 0.022419287304325103, num. epochs: 71
+Model trans_v1 with slice 1:
+Mean: 0.02542838817689477, std: 0.031243988705767792, num. epochs: 41
+Model trans_v1 with slice 1:
+Mean: 0.024235642233560253, std: 0.030689794191266166, num. epochs: 43
+Model trans_v1 with slice 1:
+Mean: 0.023684294135482224, std: 0.026655882665204345, num. epochs: 54
+Model trans_v1 with slice 1:
+Mean: 0.022284808706064693, std: 0.02417521380006867, num. epochs: 61
+Model trans_v1 with slice 1:
+Mean: 0.02336188725062779, std: 0.02290081470701615, num. epochs: 70
+Model trans_v1 with slice 1:
+Mean: 0.023284453266071824, std: 0.025796138444525125, num. epochs: 53
+Model trans_v1 with slice 1:
+Mean: 0.022929230603304776, std: 0.0230414061345597, num. epochs: 55
+Model trans_v1 with slice 1:
+Mean: 0.022676430250469008, std: 0.023319002834767885, num. epochs: 57
+Model trans_v1 with slice 1:
+Mean: 0.04245252932532359, std: 0.025183940216322802, num. epochs: 59
+Model trans_v1 with slice 1:
+Mean: 0.04413918937955584, std: 0.026994534750530447, num. epochs: 56
+Model trans_v1 with slice 1:
+Mean: 0.044592040957826554, std: 0.024709932068814597, num. epochs: 66
+Model trans_v1 with slice 1:
+Mean: 0.04516674876213074, std: 0.029922892641911655, num. epochs: 40
