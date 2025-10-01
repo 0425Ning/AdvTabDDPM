@@ -1,0 +1,18 @@
+# torch==1.10.0+cu102
+torch==1.10.0
+icecream==2.1.4
+pandas==2.2.1
+scikit-learn==1.4.1.post1
+category-encoders==2.3.0
+tomli==2.0.1
+tomli_w==1.2.0
+libzero==0.0.8
+rtdl==0.0.9
+matplotlib==3.9.0
+ray==2.44.1
+seaborn==0.13.2
+vit-pytorch==1.10.1
+json-tricks==3.17.3
+lib==4.0.0
+catboost==1.2.7
+skorch==1.1.0

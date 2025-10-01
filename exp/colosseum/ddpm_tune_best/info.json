@@ -1,0 +1,10 @@
+{
+    "name": "Network Traffic",
+    "id": "network-traffic--v3",
+    "task_type": "multiclass",
+    "n_num_features": 20,
+    "n_cat_features": 3,
+    "train_size": 76209,
+    "val_size": 16330,
+    "test_size": 16331
+}
